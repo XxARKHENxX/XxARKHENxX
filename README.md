@@ -39,4 +39,4 @@ Here are some ideas to get you started:
     You will certainly find people who share your dream, and each new person by your side will help to materialize this dream.
 
 ## Languages ​​and Technologies
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxARKHENxX&count_private=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxARKHENxX&count_private=true&theme=gruvbox)
